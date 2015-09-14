@@ -5,5 +5,6 @@
 ## Installations
 * sudo apt-get install ruby
 * sudo apt-get install sqlite3
-* sudo apt-get install ruby1.9.1-dev
+* sudo apt-get install ruby-dev
+* sudo gem install rdoc
 * sudo gem install rails
